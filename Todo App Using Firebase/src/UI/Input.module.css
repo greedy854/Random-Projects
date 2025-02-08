@@ -1,0 +1,27 @@
+.input {
+  background-color: #160627;
+  outline: none;
+  border: none;
+  padding: 10px;
+  width: 20rem;
+  /* margin: 20px; */
+  border-radius: 10px;
+}
+
+.inputContainer {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.inputContainer i {
+  position: absolute;
+  right: 40px;
+  top: 50%;
+}
+
+.inputContainer input {
+  color: white;
+}

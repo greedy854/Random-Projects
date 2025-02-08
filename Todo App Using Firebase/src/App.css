@@ -1,0 +1,16 @@
+.app-background {
+  background-color: #230b3b;
+  border-radius: 10px;
+  height: 450px;
+  width: 400px;
+}
+
+h2 {
+  margin: 5%;
+}
+
+hr {
+  border-color: #783ab6;
+  opacity: 30%;
+  width: 98%;
+}

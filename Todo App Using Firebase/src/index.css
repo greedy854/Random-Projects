@@ -1,0 +1,10 @@
+body {
+  align-items: center;
+  color: rgba(146, 145, 145, 0.87);
+  background-color: #242424;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
